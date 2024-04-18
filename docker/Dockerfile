@@ -27,4 +27,4 @@ ENV PROTOBUF_DIR /opt/conda/pkgs/libprotobuf-3.9.2-h8b12597_0
 ENV LD_LIBRARY_PATH $PROTOBUF_DIR/lib:$LD_LIBRARY_PATH
 
 RUN cd /usr && \
-    git clone --recursive git@github.com:yjsunn/TopoOpt-simulation.git
+    git clone --recursive https://github.com/yjsunn/TopoOpt-simulation.git
