@@ -1,6 +1,6 @@
 [submodule "simulation/FlexNet"]
 	path = simulation/FlexNet
-	url = https://github.com/yjsunn/TopoOpt-FlexFlow.git
+	url = https://github.com/sys-netai/TopoOpt-FlexFlow.git
 [submodule "simulation/FlexNetPacket"]
 	path = simulation/FlexNetPacket
 	url = https://github.com/Flasew/ffsim-opera.git
