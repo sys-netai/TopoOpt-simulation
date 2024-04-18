@@ -3,4 +3,4 @@
 	url = https://github.com/yjsunn/TopoOpt-FlexFlow.git
 [submodule "simulation/FlexNetPacket"]
 	path = simulation/FlexNetPacket
-	url = git@github.com:Flasew/ffsim-opera.git
+	url = https://github.com/Flasew/ffsim-opera.git
