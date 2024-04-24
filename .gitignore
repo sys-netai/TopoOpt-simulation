@@ -1,0 +1,4 @@
+.ccls-cache/
+simulation/scripts/
+!simulation/scripts/*.sh
+simulation/.nv

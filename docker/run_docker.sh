@@ -1,8 +1,8 @@
 
 
-IMAGE=topoopt-sim
+IMAGE=wxcsky/dnnsim:v0
 NAME="--name topoopt-container_1"
-DIR_MAPPING=" --volume /data/glusterfs/project/TopoOpt:/TopoOpt"
+DIR_MAPPING=" --volume /home/xinchen/TopoOpt-simulation:/TopoOpt-simulation"
 docker run -it --gpus all $NAME $DIR_MAPPING $IMAGE
 
 # #!/bin/bash
